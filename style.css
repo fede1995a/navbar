@@ -94,3 +94,26 @@ body {
     height: 500px; /*
     /*background-color: red;*/
 }
+
+.btn-1 {
+    height: 80px;
+    width: 150px;
+    color: white;
+    background: blue;
+    padding: 1rem 1rem 1rem;
+    border: solid 1px black;
+}
+
+.btn-2 {
+    height: 80px;
+    width: 150px;
+    color: white;
+    background: blue;
+    padding: 1rem 1rem 1rem;
+    margin-left: 1rem;
+    border: solid 1px black;
+}
+
+.btn {
+    margin-top: 2rem;
+}
