@@ -236,3 +236,104 @@
         justify-content: center;
         align-items: center;
     }
+    /*Section 4 CLIENTES */
+    
+    .clients {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 20px;
+        margin: 10rem 3rem 10rem 0rem;
+    }
+    
+    .clients p {
+        display: flex;
+        justify-content: center;
+        text-align: center;
+        color: white;
+        text-align: start;
+    }
+    
+    .clients h2 {
+        text-align: center;
+        font-size: 1.8rem;
+        color: gray;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        text-transform: uppercase;
+    }
+    
+    .itemz {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: row;
+        width: 250px;
+        height: 200px;
+        /*background-color: #121314;*/
+        margin: 10px;
+        color: white;
+    }
+    
+    .dad {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: 10px;
+    }
+    /*Footer */
+    
+    .kuki {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        max-width: 150px;
+        max-height: 150px;
+        margin: 2rem 2rem 2rem;
+    }
+    
+    .pkpkpk {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    .ofices {
+        color: whitesmoke;
+        text-decoration: underline;
+        font-size: 0.8rem;
+    }
+    
+    .logito {
+        max-width: 30px;
+        max-height: 30px;
+    }
+    
+    .redes {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        gap: 8px;
+        margin-left: 80px;
+        margin-top: 100px;
+        /* background: red;*/
+    }
+    
+    .itemz:hover {
+        zoom: 110%;
+    }
+    
+    .btn-1:hover {
+        zoom: 110%;
+    }
+    
+    .btn-2:hover {
+        zoom: 110%;
+    }
+    
+    .ofices:hover {
+        text-decoration: underline;
+        color: #23074d;
+    }
